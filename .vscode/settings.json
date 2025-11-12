@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "ISL_STUDIO-main/demo-app/.venv/bin/python",
+  "python.terminal.activateEnvironment": true
+}

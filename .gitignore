@@ -1,0 +1,22 @@
+# Local environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Logs and temp
+*.log
+nohup.out
+tmp/
+
+# Streamlit runtime artifacts
+.streamlit_*.pid
+.streamlit_*.log
+streamlit-*.log
